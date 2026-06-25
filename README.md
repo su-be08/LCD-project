@@ -1,2 +1,3 @@
-# LCD-project
-This LCD-project shows how a LCD is formed using arguinuni and liquid 
+# LED Matrix-project
+This LED-project shows how a Pixel Art is formed using arduino UNO, breadboard, LEDs and wires.
+
